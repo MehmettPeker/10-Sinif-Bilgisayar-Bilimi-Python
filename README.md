@@ -14,3 +14,4 @@ Dosya adları çift dilli:
 - `10_1_liste_kavrami__list_concept.py`
 
 .
+.
