@@ -27,6 +27,8 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji
+  - pymdownx.snippets
+
 
 nav:
   - Ana Sayfa: index.md
