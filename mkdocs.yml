@@ -1,14 +1,6 @@
-
----
-
-## 2) `mkdocs.yml` (TAM AYARLI ÖRNEK)
-
-> Repoda kökteki `mkdocs.yml` dosyanı bununla aynı mantıkta düzenle.  
-> (Senin sayfa adların birebir farklıysa sadece dosya yollarını güncellersin.)
-
-```yml
-site_name: Python - MEB Bilgisayar Bilimi (Kur-1)
-site_url: https://mehmettpker.github.io/10-Sinif-Bilgisayar-Bilimi-Python/
+site_name: "Python - MEB Bilgisayar Bilimi (Kur-1)"
+site_url: "https://mehmetpeker.github.io/10-Sinif-Bilgisayar-Bilimi-Python/"
+site_description: "MEB Bilgisayar Bilimi (Kur-1) için pedagojik ders notları ve örnekler."
 
 theme:
   name: material
@@ -19,7 +11,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.path
-    - navigation.footer        # altta “Previous / Next”
+    - navigation.footer
     - content.code.copy
     - toc.follow
 
