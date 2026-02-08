@@ -24,3 +24,12 @@ Listeler “statik” (sabit) değildir. İçine veri ekledikçe kendi kendine b
 | **Veri Türü** | Genelde tek tür | Karışık türler bir arada olabilir |
 
 > **MEB Notu:** Liste, birden fazla değeri tek bir değişken isminde saklamamızı sağlar ve programın daha pratik yazılmasını sağlar.
+---
+
+## 💻 Uygulama Kodu
+
+Aşağıdaki örneği bilgisayarında çalıştır:
+
+```python title="10_1_liste_kavrami__list_concept.py"
+--8<-- "code/listeler/10_1_liste_kavrami__list_concept.py"
+```
