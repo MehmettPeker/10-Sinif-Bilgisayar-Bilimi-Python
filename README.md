@@ -12,3 +12,5 @@ bir **ömürlük ders kitabı + kod örnekleri** yapısıdır.
 Dosya adları çift dilli:
 - `10_1_liste_kavrami__list_concept.md`
 - `10_1_liste_kavrami__list_concept.py`
+
+.
