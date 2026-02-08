@@ -1,0 +1,32 @@
+site_name: Python - MEB Bilgisayar Bilimi (Kur-1)
+theme:
+  name: material
+  language: tr
+nav:
+  - Ana Sayfa: index.md
+  - 1. Python ile Programlamanın Temelleri: 01_python_ile_programlama/README.md
+  - 2. Değerler ve Değişkenler: 02_degerler_ve_degiskeler/README.md
+  - 3. İfadeler ve Aritmetik İşlemler: 03_ifadeler_ve_aritmetik/README.md
+  - 4. Koşullu Durumlar (if): 04_kosullu_durumlar_if/README.md
+  - 5. Döngüler: 05_donguler/README.md
+  - 6. Fonksiyonlar 1: 06_fonksiyonlar_1/README.md
+  - 7. Fonksiyon Yazma: 07_fonksiyon_yazma/README.md
+  - 8. Fonksiyonlar 2: 08_fonksiyonlar_2/README.md
+  - 9. Nesneler: 09_nesneler/README.md
+  - 10. Listeler:
+      - Ders Planı: 10_listeler/ders_plani__lesson_plan.md
+      - 10.1 Liste Kavramı: 10_listeler/10_1_liste_kavrami__list_concept.md
+      - 10.2 Liste Oluşturmak: 10_listeler/10_2_liste_olusturma__create_list.md
+      - 10.3 list() Fonksiyonu: 10_listeler/10_3_list_fonksiyonu__list_function.md
+      - 10.4 * Operatörü: 10_listeler/10_4_carpma_ile_liste__multiply_list.md
+      - 10.5 Üyelik (in): 10_listeler/10_5_uyelik_in__membership.md
+      - 10.6 Atama & Eşitleme: 10_listeler/10_6_atama_esitleme__assignment.md
+      - 10.7 Sınırlar: 10_listeler/10_7_sinirlar__bounds.md
+      - 10.8 Dilimleme: 10_listeler/10_8_dilimleme__slicing.md
+      - 10.9 Eleman Çıkarma: 10_listeler/10_9_eleman_cikarma__remove_items.md
+      - 10.10 Listeler & Fonksiyonlar: 10_listeler/10_10_listeler_fonksiyonlar__lists_functions.md
+      - 10.11 Metotlar: 10_listeler/10_11_liste_metotlari__methods.md
+      - 10.12 Çok Boyutlu Listeler: 10_listeler/10_12_cok_boyutlu_listeler__nested_lists.md
+      - 10.13 Çok Boyutlu Diziler: 10_listeler/10_13_cok_boyutlu_diziler__2d_lists.md
+      - 10.14 _ Sembolü: 10_listeler/10_14_alt_tire__underscore.md
+      - 10.15 Özet: 10_listeler/10_15_ozet__summary.md
